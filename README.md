@@ -1,0 +1,2 @@
+# Zomato-Banglore-Restaurants-Dataset
+The provided dataset is taken from famous restaurant booking and food delivery app called Zomato for Bangalore city which is a huge IT hub of India. This dataset has interesting features consolidated in one place like rating, approx cost, location, etc.The aim of analyzing given dataset is to get insights in terms of popular locations, rating, cost, etc required for opening a restaurant/service in Bangalore.
